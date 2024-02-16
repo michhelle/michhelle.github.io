@@ -8,7 +8,7 @@ export default function Footer() {
             <img src="/linkedin.png" alt="linkedin" class="h-6 w-6" />
           </a>
 
-          <a class="px-1" href="https://www.github./michhelle/">
+          <a class="px-1" href="https://www.github.com/michhelle/">
             <img src="/github.png" alt="github" class="h-6 w-6" />
           </a>
         </div>

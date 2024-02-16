@@ -5,9 +5,7 @@ export default function Header() {
   const location = useLocation();
 
   const isActive = (path) => {
-    return location.pathname === path
-      ? "text-violet-300 font-semibold"
-      : "";
+    return location.pathname === path ? "text-violet-300 font-semibold" : "";
   };
 
   return (
@@ -43,6 +41,14 @@ export default function Header() {
           >
             contact
           </Link>
+        </li>
+        <li>
+          <a
+            href="https://drive.google.com/file/d/1zZe26dXEHMqrJsdsD-0fBkEQU2Dm7ekH/view?usp=sharing"
+            class="hover:underline decoration-violet-300"
+          >
+            resume
+          </a>
         </li>
       </ul>
     </div>
