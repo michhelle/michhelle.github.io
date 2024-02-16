@@ -15,12 +15,14 @@ export default function Experience() {
               <p>android application developer</p>
               <p class="text-gray-400">react native, typescript, mongodb</p>
             </div>
-            <a
-              href="https://www.torontomu.ca/inclusive-media/"
-              class="grid justify-end content-center hover:text-violet-300"
-            >
-              may 2023 - present
-            </a>
+            <div class="grid justify-end content-center ">
+              <a
+                href="https://www.torontomu.ca/inclusive-media/"
+                class="hover:text-violet-300"
+              >
+                may 2023 - present
+              </a>
+            </div>
           </div>
         </li>
         <br />
@@ -31,12 +33,14 @@ export default function Experience() {
               <p>software engineer intern</p>
               <p class="text-gray-400">angular, javascript, mongodb</p>
             </div>
-            <a
-              href="https://therealm.gg/"
-              class="grid justify-end content-center hover:text-violet-300"
-            >
-              may 2022 - august 2022
-            </a>
+            <div class="grid justify-end content-center ">
+              <a
+                href="https://therealm.gg/"
+                class="grid justify-end content-center hover:text-violet-300"
+              >
+                may 2022 - august 2022
+              </a>
+            </div>
           </div>
         </li>
       </ul>
@@ -48,12 +52,14 @@ export default function Experience() {
               <p class="font-semibold">windows xp clone</p>
               <p class="text-gray-400">react, typescript</p>
             </div>
-            <a
-              href="https://github.com/michhelle/michelle-dev"
-              class="grid justify-end content-center hover:text-violet-300"
-            >
-              github
-            </a>
+            <div class="grid justify-end content-center ">
+              <a
+                href="https://github.com/michhelle/michelle-dev"
+                class="grid justify-end content-center hover:text-violet-300"
+              >
+                github
+              </a>
+            </div>
           </div>
         </li>
         <br />
@@ -63,12 +69,14 @@ export default function Experience() {
               <p class="font-semibold">e-commerce website</p>
               <p class="text-gray-400">angular, javascript, php, mysql</p>
             </div>
-            <a
-              href="https://github.com/michhelle/ecommerce-website"
-              class="grid justify-end content-center hover:text-violet-300"
-            >
-              github
-            </a>
+            <div class="grid justify-end content-center ">
+              <a
+                href="https://github.com/michhelle/ecommerce-website"
+                class="grid justify-end content-center hover:text-violet-300"
+              >
+                github
+              </a>
+            </div>
           </div>
         </li>
       </ul>
